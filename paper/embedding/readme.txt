@@ -1,0 +1,3 @@
+2018SpringSeminar_Embedding 是embedded相关论文
+FW_Representation learning.zip 里面是这些论文的综述以及一些其他表示学习的资料
+Inductive Representation Learning on Large Graphs_18_5_16.ppt 是单怡然小盆友的组会报告
