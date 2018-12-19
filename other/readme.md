@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# 欢迎使用 Cmd Markdown 编辑阅读器aha 
 
 ------
@@ -191,3 +192,7 @@ Bob-->Alice: I am good thanks!
 [3]: http://weibo.com/ghosert
 [4]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
 
+=======
+## 传说有神奇的事情出现
+我就试试
+>>>>>>> aca5f6868ed65ccbc3ad4f72684c39806163260a
