@@ -1,14 +1,10 @@
-## ran's questions:
-GAN和VAE还有强化学习哪个好？
-## beisong's response：
+## GAN和VAE还有强化学习哪个好？
 不会强化学习啊
-为啥VAE的结果会使得图片模糊而GAN就不会呢？？？？
-## beisong's response：
+
+## 为啥VAE的结果会使得图片模糊而GAN就不会呢？？？？
 不会强化学习啊，但是GAN生成的图像还是比较模糊的吧
 
 ## 求GAN的学习资料~
-
-## beisong's response：
 + GAN-Generative Adversarial Networks
 + CGAN - Conditional Generative Adversarial Nets
 + DCGAN - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
